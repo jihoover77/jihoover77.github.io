@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Diabetes Dataset Project
-tags: Statistical Inferences
+tags: [Statistical Inference]
 ---
 
 #Introduction
