@@ -79,7 +79,7 @@ share-links-active:
 # Remove this if you don't want a link in the footer
 url-pretty: "LambdaExample.com"
 
-# Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
+Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
 
 # Whether or not to show an excerpt for every blog post in the feed page
