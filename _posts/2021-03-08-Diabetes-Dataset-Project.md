@@ -1,4 +1,3 @@
-![Age_barplot](https://user-images.githubusercontent.com/62798946/110517692-2d3a8300-80d9-11eb-9b62-0221fae9a81c.png)
 ---
 layout: post
 title: Diabetes Dataset Project
